@@ -11,7 +11,7 @@ namespace NUnitTestProject1
         [SetUp]
         public void Setup ()
         {
-            p = new Person{name="Anders",Age = 100};
+            p = new Person{name="Tom",Age = 100};
         }
 
         [Test]
